@@ -4,7 +4,7 @@ templates:
     default:
       sep_style: orig
       collection_section: "00"
-      url_poster_<<key>>: https://raw.githubusercontent.com/Drazzilb08/pmm-custom-repo-posters/master/separators/<<sep_style>>/<<separator>>.jpg
+      url_poster_<<key>>: https://raw.githubusercontent.com/zhdenny/pmm-custom-repo-posters/master/separators/<<sep_style>>/<<separator>>.jpg
     optional:
       - use_separator
       - collection_mode
@@ -73,7 +73,7 @@ templates:
       order_<<key>>: <<order>>
       item_radarr_tag_<<key>>: <<item_radarr_tag>>
       item_sonarr_tag_<<key>>: <<item_sonarr_tag>>
-      url_poster: https://raw.githubusercontent.com/Drazzilb08/pmm-custom-repo-posters/master/<<image>>.jpg
+      url_poster: https://raw.githubusercontent.com/zhdenny/pmm-custom-repo-posters/master/<<image>>.jpg
       url_poster_<<key>>: <<url_poster>>
       visible_library_<<key>>: <<visible_library>>
       visible_home_<<key>>: <<visible_home>>
