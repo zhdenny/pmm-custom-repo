@@ -345,14 +345,14 @@ collections:
   Supernatural:
     template:
       - name: anime_genre
-          mal_id: 37
+        mal_id: 37
       - name: shared
       - name: shared
     summary: When one says supernatural, they’re referring to stuff or events that are odd and out-of-the-blue. For this category, supernatural might refer to something mythical, mystical, bizarre, or something outside the bounds of accepted reality. There’s a shadow of mystery often found in shows involved with this genre.
   Suspense:
     template:
       - name: anime_genre
-         mal_id: 41
+        mal_id: 41
       - name: shared
       - name: shared
     Summary: Instilling a sense of anticipation and excitement takes priority, and is accomplished with a narrative that is rife with twists, turns, and red herrings. Uncertainty is present every step of the way, often drawn out for maximum effect. A variety of tools are used to keep the audience on the edge of their seats, such as withholding important information, intentional misdirection, or even outright subversion of expectations.
