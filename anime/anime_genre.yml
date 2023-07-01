@@ -121,8 +121,8 @@ collections:
   Game:
     template:
       - name: anime_genre
-      - name: shared
         mal_id: 11
+      - name: shared
       - name: shared
     summary: The game category encompasses shows revolving around the idea of gaming and playing. The anime can feature a card game, board game, puzzle game, or even a virtual online game. As long as it concerns any playable game of any kind, it belongs in this category. Sometimes, even videogame-based shows can count in this selection.
   Girls Love:
